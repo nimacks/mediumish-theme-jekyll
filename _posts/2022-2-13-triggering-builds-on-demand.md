@@ -9,6 +9,7 @@ description: "Triggering builds on-demand with AWS Amplify Hosting"
 featured: true
 hidden: false
 toc: true
+comments: true
 #rating: 4.5
 ---
 
