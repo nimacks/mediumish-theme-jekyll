@@ -43,6 +43,7 @@ paginate_path: /page:num/
     
 # Other
 markdown: kramdown
+highlighter: rouge
 
 kramdown:
   input: GFM
