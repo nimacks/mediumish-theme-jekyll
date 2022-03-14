@@ -8,7 +8,7 @@ image: assets/images/career.jpg
 description: "Getting started resources for careers in Tech"
 featured: true
 hidden: false
-toc: true
+
 rating: 4.5
 ---
 
