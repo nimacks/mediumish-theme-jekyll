@@ -62,3 +62,34 @@ The tech industry is a complex beast to navigate especially if you're new to com
     - [Google Cloud Professional Data Engineer Certification](https://cloud.google.com/certification/data-engineer)
     - [University of Pennsylvania Master’s of Computer and Information Technology (Online)](https://online.seas.upenn.edu/degrees/mcit-online/) (** general computer science program for non-CS professionals)
 - [How to build a data science portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
+
+## Cyber Security
+Career path in information & cyber security
+
+- [CyberSeek](https://www.cyberseek.org/pathway.html)
+
+
+
+Education Resources 
+
+- [SANS](https://www.sans.org/)
+- [Udemy](https://www.udemy.com/courses/search/?q=cyber+security&src=sac&kw=cyb) 
+- Pluralsight 
+- [Learning Cloud (AWS, Azure, GCP)](https://app.pluralsight.com/search/?q=cloud&m_sort=relevance&query_id=461b60d8-1b1f-4880-89a3-cb43008bc00a&source=user_typed) 
+
+
+
+Certifications 
+
+- [CompTIA](https://www.comptia.org/certifications)
+- [EC-Council](https://www.eccouncil.org/programs/)
+- [ISACA](https://www.isaca.org/credentialing/certifications)
+- [(ISC)2](https://www.isc2.org/Certifications)
+
+
+
+Interview Preparation
+
+- [InterviewBit](https://www.interviewbit.com/cyber-security-interview-questions/)
+- [MindMajix](https://mindmajix.com/cyber-security-interview-questions)  
+- [YouTube](https://www.youtube.com/watch?v=q5pQ_YtJWpA)
